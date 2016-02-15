@@ -1,0 +1,11 @@
+d4fc687f3df4ed383bc224efd8d7bf94 *DESCRIPTION
+7aec1851d493849a713cc19b88474910 *NAMESPACE
+9ce914045e56cf05456d4e4295598a72 *NEWS
+5f098bccfc72bba1d45ac0684e298d7d *R/RcppExports.R
+83ae13da0bf4e8e3834479f3f25af141 *cleanup
+1bc2ae61f2b0be147ba21338cff046c5 *man/arrApply.Rd
+f362983170c7c889625a8963267f08d6 *src/Makevars
+e8c8ae7f6ba9deb6dc743ff190cd263a *src/RcppExports.cpp
+a8b2e9405b30e5b068ef6b96f39d4907 *src/arrApply.cpp
+3fa1bd5a6807090fbbac920e6e1391fe *tests/testthat.R
+923527fd9ed3783c8d32d7fc1ec28a7f *tests/testthat/test_arrApply.R
